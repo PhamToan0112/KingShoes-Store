@@ -1,0 +1,33 @@
+.text-bg-primary{
+    background-color: #0d6efd    ;
+    color: #ffff;
+}
+.text-bg-success{
+    background-color: #198754;
+    color: #ffff;
+}
+.text-bg-danger{
+    background-color:#dc3545;
+    color: #ffff;
+}
+.text-bg-warning{
+    background-color: #ffc107 ;
+    color: #ffff;
+}
+.func{
+    font-weight: 500vh;
+    font-size: 20px;
+}
+.css-th-content th, .css-td-content td {
+    white-space: nowrap;
+}
+.css-td-content img {
+    max-width: 100px;
+    height: auto;
+}
+.css-td-content p {
+    max-width: 200px;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
